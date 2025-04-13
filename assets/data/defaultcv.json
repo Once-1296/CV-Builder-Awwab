@@ -1,23 +1,22 @@
 [
     {
         "type": "info",
-        "name": "John Doe",
+        "name": "Awwab Wadekar",
         "table1": {
             "class": "info-table1",
             "label": ["Address:", "Phone:", "Email:"],
             "content": [
-                "123 State St.<br>Oslo, Norway",
-                "555-123-4567",
-                "john@polygonal.eu"
+                "VJTI, Five Gardens, Matunga East - 400019",
+                "+91 12345 67890",
+                "aswadekar_b24@it.vjti.ac.in"
             ]
         },
         "table2": {
             "class": "info-table2",
-            "label": ["Website:", "Linkedin", "Twitter:"],
+            "label": ["Website:", "Linkedin"],
             "content": [
-                "https://polygonal.eu",
-                "https://www.linkedin.com/",
-                "@johndoe"
+                "https://myportfolio-awwab.io",
+                "https://www.linkedin.com/in/awwab-wadekar-912457308/"
             ]
         }
     },
@@ -25,7 +24,7 @@
         "type": "single-block",
         "title": "About Me",
         "list": [
-            "I am a brewer with 12 years of experience, specialized in wild yeast fermentation and barrel-aging."
+            "I am a freshman Software Engineer, with specialisation in C++ and Competitive Programming. I have an interest in development and have been working on my App development Skills"
         ]
     },
     {
@@ -33,22 +32,16 @@
         "title": "Professional Experience",
         "list": [
             {
-                "date": "2017-2020",
-                "location": "Polygonal Brewing Co.",
-                "position": "Head Brewer",
-                "description": "As head brewer, I partner with the marketing team to plan recipes and the production schedule. I manage a team of 4 people and ensure inventory is up to date."
+                "date": "October 2024-Present",
+                "location": "Community-of-Coders Competitive Programming Club",
+                "position": "Trainee Member",
+                "description": "I have practiced solving questions on DSA daily and attending Contests regularly. I have gone from a complete beginner to a 4 star on Codechef, a Pupil on Codeforces and have solved 300+ questions on LeetCode. "
             },
             {
-                "date": "2015-2017",
-                "location": "Polygonal Brewing Co.",
-                "position": "Assistant Brewer",
-                "description": "As assistant brewer I was in charge of production, facility sanitation, product packaging, while ensuring proper brewing and hygiene routines."
-            },
-            {
-                "date": "2013-2015",
-                "location": "Polygonal Taproom",
-                "position": "Bartender",
-                "description": "On top of customer relations, I maintained cleanliness of taps and beer lines to ensure optimal product quality. I also organized various events and special releases."
+                "date": "March 2025-Present",
+                "location": "Community-of-Coders Project-X",
+                "position": "Trainee",
+                "description": "I have attended all workshops, and have familiarised myself with JavaScript, Python, Numpy, OpenCV and git/GitHub. I have worked on Open-Source Contribution in Project X repositories to solve simple tasks on the tools taught so far."
             }
         ]
     },
@@ -57,16 +50,16 @@
         "title": "Education",
         "list": [
             {
-                "date": "2015",
-                "location": "Institute of Brewing",
-                "position": "Certificate in Brewing",
-                "description": "This certificate covers all aspects of beer production from recipe inception, to process and packaging."
+                "date": "2022",
+                "location": "St. Mary's High School (SSC) , Mazagaon, Mumbai.",
+                "position": "Secondary School Certifcate (Maharashtra Board)",
+                "description": "This certificate covers all aspects of standard secondary education as mentioned by the Maharashtra State Board of Education."
             },
             {
-                "date": "2012-2014",
-                "location": "University of Grenoble",
-                "position": "Bachelor in Communications",
-                "description": "This degree trained me in public relations and online communications with a special focus on social media."
+                "date": "2024",
+                "location": "Wilson College, Chowpatty",
+                "position": "Secondary School Certifcate (PCM + CS ,Maharashtra Board)s",
+                "description": "This certificate covers all aspects of standard higher secondary education, in the branch Science, in the subjects of Physics, Chemistry, Maths and Computer Science as mentioned by the Maharashtra State Board of Education."
             }
         ]
     },
@@ -74,18 +67,18 @@
         "type": "three-column",
         "title": "Skills",
         "list": [
-            "Brewing",
-            "Recipe Inception",
-            "Barrel Aging",
-            "Beersmith",
-            "Fluent in French and English",
-            "Office Suite",
+            "DSA and Competitive Programming",
+            "Problem Solving",
+            "Technical Communication and Teamwork skills",
+            "SFML: Simple and Fast Multimedia Library, for developing simple windows based C++ Applications",
+            "Basics of HTML, CSS, JS, Python , Open-CV",
+            "Fluent in Hindi and English",
             "Various Social Media Platforms"
         ]
     },
     {
         "type": "three-column",
         "title": "Interests",
-        "list": ["Reading", "Music", "Cooking", "Writing", "Rock Climbing"]
+        "list": ["Reading", "Music", "Watching Anime", "Writing"]
     }
 ]
