@@ -20,7 +20,7 @@ if(!isset($_SESSION['username'])) {
             <p>You have successfully logged in.</p>
         </div>
         <a href="logout.php" class="btn">Logout</a>
-        <a href="dtiproj2.html" target="_blank" class="btn">ResumePro</a>
+        <a href="dtiproj2.php" target="_blank" class="btn">ResumePro</a>
     </div>
 </body>
 </html>
