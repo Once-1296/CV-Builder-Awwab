@@ -1,0 +1,15 @@
+-- Create the database
+CREATE DATABASE IF NOT EXISTS user_auth;
+
+-- Switch to the new database
+USE user_auth;
+
+-- Create a users table (simple version)
+CREATE TABLE users (
+    first_name VARCHAR(100) NOT NULL ,
+    last_name VARCHAR(100) NOT NULL ,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
